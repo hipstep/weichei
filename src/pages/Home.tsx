@@ -3,7 +3,7 @@ import { motion } from 'motion/react'
 
 export default function Home() {
     return (
-        <div className="flex items-center justify-center h-screen bg-yellow-100/50">
+        <div className="flex items-center justify-center h-screen bg-yellow-100">
             <motion.div
                 initial={{ scale: 0 }}
                 animate={{ scale: [0, 1.1, 1] }}
@@ -17,9 +17,9 @@ export default function Home() {
                         rotate: [0, -1, 1, 0, 1, -1, 0, -1, 1, 0, -1]
                     }}
                     transition={{ duration: 0.5, ease: 'linear', repeat: Infinity }}
-                    className="absolute bg-[url('public/assets/HomeBoomBackground.png')] bg-cover bg-center w-full h-full"
+                    className="absolute bg-[url('/assets/HomeBoomBackground.png')] bg-cover bg-center w-full h-full"
                 ></motion.div>
-                <div className="scale-90 absolute bg-[url('public/assets/HomeBoomForeground.png')] z-10 bg-cover bg-center w-full h-full"></div>
+                <div className="scale-90 absolute bg-[url('/assets/HomeBoomForeground.png')] z-10 bg-cover bg-center w-full h-full"></div>
             </motion.div>
         </div>
     )
