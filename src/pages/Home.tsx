@@ -17,9 +17,9 @@ export default function Home() {
                         rotate: [0, -1, 1, 0, 1, -1, 0, -1, 1, 0, -1]
                     }}
                     transition={{ duration: 0.5, ease: 'linear', repeat: Infinity }}
-                    className="absolute bg-[url('src/assets/HomeBoomBackground.png')] bg-cover bg-center w-full h-full"
+                    className="absolute bg-[url('public/assets/HomeBoomBackground.png')] bg-cover bg-center w-full h-full"
                 ></motion.div>
-                <div className="scale-90 absolute bg-[url('src/assets/HomeBoomForeground.png')] z-10 bg-cover bg-center w-full h-full"></div>
+                <div className="scale-90 absolute bg-[url('public/assets/HomeBoomForeground.png')] z-10 bg-cover bg-center w-full h-full"></div>
             </motion.div>
         </div>
     )
