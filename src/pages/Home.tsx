@@ -11,7 +11,7 @@ export default function Home() {
                 initial={{ scale: 0 }}
                 animate={{ scale: [0, 1.1, 1] }}
                 transition={{ duration: 0.75, ease: 'easeInOut' }}
-                className="w-1/2 h-128 relative">
+                className="size-200 relative">
                 <motion.div 
                     animate={{
                         x: [1, -1, -3, 3, 1, -1, -3, 3, -1, 1, 1],
@@ -19,9 +19,9 @@ export default function Home() {
                         rotate: [0, -1, 1, 0, 1, -1, 0, -1, 1, 0, -1]
                     }}
                     transition={{ duration: 0.5, ease: 'linear', repeat: Infinity }}
-                    className="absolute bg-[url('/assets/HomeBoomBackground.png')] bg-cover bg-center w-full h-full">
+                    className="absolute bg-[url('/assets/HomeBoomBackground.png')] bg-contain bg-no-repeat bg-center w-full h-full">
                 </motion.div>
-                <div className="scale-90 absolute bg-[url('/assets/HomeBoomForeground.png')] z-10 bg-cover bg-center w-full h-full items-center justify-center flex flex-col">
+                <div className="scale-90 absolute bg-[url('/assets/HomeBoomForeground.png')] z-10 bg-contain bg-no-repeat bg-center w-full h-full items-center justify-center flex flex-col">
                     <motion.h1 
                         initial={{ color: '#460809' }}
                         animate={{ color: '#9f0712' }}
