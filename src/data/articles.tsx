@@ -1,19 +1,19 @@
-{
+const data = {
     "articles":[
         {
             "title":"Trójstronne Spotkanie Młodzieży w Olsztynie - Dzień po dniu odkrywamy przyjaźń bez granic",
             "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
             "images_names":[
-                "a0_0.jpg",
-                "a0_1.jpg",
-                "a0_2.jpg",
-                "a0_3.jpg",
-                "a0_4.jpg",
-                "a0_5.jpg",
-                "a0_6.jpg",
-                "a0_7.jpg",
-                "a0_8.jpg",
-                "a0_9.jpg"
+                "a0_0.jpeg",
+                "a0_1.jpeg",
+                "a0_2.jpeg",
+                "a0_3.jpeg",
+                "a0_4.jpeg",
+                "a0_5.jpeg",
+                "a0_6.jpeg",
+                "a0_7.jpeg",
+                "a0_8.jpeg",
+                "a0_9.jpeg"
             ]
         },
         {
@@ -258,6 +258,8 @@
         }
     ]
 }
+
+export default data;
 
 
 
