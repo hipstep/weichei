@@ -1,7 +1,7 @@
 const data = {
     "articles":[
         {
-            "title":"Trójstronne Spotkanie Młodzieży w Olsztynie - Dzień po dniu odkrywamy przyjaźń bez granic",
+            "title":"Trojstronne Spotkanie Mlodziezy w Olsztynie - Dzien po dniu odkrywamy przyjazn bez granic",
             "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
             "images_names":[
                 "a0_0.jpeg",
@@ -17,7 +17,7 @@ const data = {
             ]
         },
         {
-            "title":"Elektryzujący Dzień Języków Obcych w „Elektryku”",
+            "title":"Elektryzujacy Dzien Jezykow Obcych w „Elektryku”",
             "text":"30 września w naszej szkole odbyła się druga edycja Elektryzującego Dnia Języków Obcych. Wydarzenie miało na celu nie tylko promocję nauki języków obcych, ale także integrację uczniów klas pierwszych, którzy właśnie zakończyli pierwszy miesiąc nauki w nowym środowisku.",
             "images_names":[
                 "a1_0.jpg",
@@ -33,48 +33,48 @@ const data = {
             ]
         },
         {
-            "title":"Warsztaty językowe",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "title":"Warsztaty jezykowe",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
-                "a2_1.jpg",
-                "a2_2.jpg",
-                "a2_3.jpg",
-                "a2_4.jpg",
-                "a2_5.jpg",
-                "a2_6.jpg",
-                "a2_0.jpg",
-                "a2_7.jpg",
-                "a2_8.jpg",
-                "a2_9.jpg"
+                "a2_1.jpeg",
+                "a2_2.jpeg",
+                "a2_3.jpeg",
+                "a2_4.jpeg",
+                "a2_5.jpeg",
+                "a2_6.jpeg",
+                "a2_0.jpeg",
+                "a2_7.jpeg",
+                "a2_8.jpeg",
+                "a2_9.jpeg"
             ]
         },
         {
-            "title":"Polsko-niemiecka wymiana młodzieży z Projectu Warmia",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "title":"Polsko-niemiecka wymiana mlodziezy z Projectu Warmia",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
-                "a3_0.jpg",
-                "a3_1.jpg",
-                "a3_2.jpg",
-                "a3_3.jpg",
-                "a3_4.jpg",
-                "a3_5.jpg",
-                "a3_6.jpg",
-                "a3_7.jpg",
-                "a3_8.jpg",
-                "a3_9.jpg"
+                "a3_0.jpeg",
+                "a3_1.jpeg",
+                "a3_2.jpeg",
+                "a3_3.jpeg",
+                "a3_4.jpeg",
+                "a3_5.jpeg",
+                "a3_6.jpeg",
+                "a3_7.jpeg",
+                "a3_8.jpeg",
+                "a3_9.jpeg"
             ]
         },
         {
-            "title":"Sukcesy naszych uczniów klas językowych z języka niemieckiego",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "title":"Sukcesy naszych uczniow klas jezykowych z jezyka niemieckiego",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
-                "a4_0.jpg",
+                "a4_0.jpeg",
                 "a4_1.jpg",
                 "a4_2.jpg",
-                "a4_3.jpg",
+                "a4_3.jpeg",
                 "a4_4.jpg",
                 "a4_5.jpg",
-                "a4_6.jpg",
+                "a4_6.jpeg",
                 "a4_7.jpg",
                 "a4_8.jpg",
                 "a4_9.jpg"
@@ -82,7 +82,7 @@ const data = {
         },
         {
             "title":"Projekt „Deutsch Plus schreibt Geschichte”",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a5_0.jpg",
                 "a5_1.jpg",
@@ -97,8 +97,8 @@ const data = {
             ]
         },
         {
-            "title":"Elektryzujący Dzień Języków Obcych",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "title":"Elektryzujacy Dzien Jezykow Obcych",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a6_0.jpg",
                 "a6_1.jpg",
@@ -113,8 +113,8 @@ const data = {
             ]
         },
         {
-            "title":"Wymiana polsko-niemiecka w ramach projektu PNWM „zrównoważony rozwój naszą przyszłością” - Project Warmia",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "title":"Wymiana polsko-niemiecka w ramach projektu PNWM „zrownowazony rozwoj nasza przyszloscia” - Project Warmia",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a7_0.jpg",
                 "a7_1.jpg",
@@ -129,8 +129,8 @@ const data = {
             ]
         },
         {
-            "title":"Warsztaty z języka niemieckiego dla 2 i 3 klasy językowej",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "title":"Warsztaty z jezyka niemieckiego dla 2 i 3 klasy jezykowej",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a8_0.jpg",
                 "a8_1.jpg",
@@ -146,7 +146,7 @@ const data = {
         },
         {
             "title":"Konkurs Deutschfreund",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a9_0.jpg",
                 "a9_1.jpg",
@@ -162,7 +162,7 @@ const data = {
         },
         {
             "title":"Projekt #deutschbewegt Goethe-Institut w Warszawie",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a10_0.jpg",
                 "a10_1.jpg",
@@ -177,8 +177,8 @@ const data = {
             ]
         },
         {
-            "title":"Warsztaty językowe „Wiedeń od A do Z”",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "title":"Warsztaty jezykowe „Wieden od A do Z”",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a11_0.jpg",
                 "a11_1.jpg",
@@ -193,8 +193,8 @@ const data = {
             ]
         },
         {
-            "title":"Październikowe warsztaty języka niemieckiego w Olsztynie",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "title":"Pazdziernikowe warsztaty jezyka niemieckiego w Olsztynie",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a12_0.jpg",
                 "a12_1.jpg",
@@ -210,7 +210,7 @@ const data = {
         },
         {
             "title":"Warsztaty muzyczne „workshops mit Lotte”",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a13_0.jpg",
                 "a13_1.jpg",
@@ -225,8 +225,8 @@ const data = {
             ]
         },
         {
-            "title":"Warsztaty językowo-kulturowe",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "title":"Warsztaty jezykowo-kulturowe",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a14_0.jpg",
                 "a14_1.jpg",
@@ -242,7 +242,7 @@ const data = {
         },
         {
             "title":"Wymiana polsko-niemiecka Krosno-Marl 2018",
-            "text":"Dziesięcioosobowa grupa uczniów naszej szkoły wraz z opiekunami bierze udział w Trójstronnym Spotkaniu Młodzieży w Olsztynie dzięki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestniczą również grupy z Niemiec (Brunszwik) oraz Ukrainy (Biała Cerkiew). To niezwykłe przedsięwzięcie ma na celu integrację, wymianę doświadczeń oraz budowanie międzynarodowych przyjaźni między młodymi ludźmi z trzech krajów.",
+            "text":"Dziesiecioosobowa grupa uczniow naszej szkoly wraz z opiekunami bierze udzial w Trojstronnym Spotkaniu Mlodziezy w Olsztynie dzieki Project Warmia Marta Wlostwska oraz Erasmus +. W wydarzeniu uczestnicza rowniez grupy z Niemiec (Brunszwik) oraz Ukrainy (Biala Cerkiew). To niezwykle przedsiewziecie ma na celu integracje, wymiane doswiadczen oraz budowanie miedzynarodowych przyjazni miedzy mlodymi ludzmi z trzech krajow.",
             "images_names":[
                 "a15_0.jpg",
                 "a15_1.jpg",

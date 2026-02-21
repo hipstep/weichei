@@ -5,6 +5,11 @@
   src: url('/assets/fonts/YearnAlways-6RP7Y.ttf') format("truetype");
 }
 
+@font-face {
+  font-family: inkFree;
+  src: url('/assets/fonts/INKFREE.TTF') format("truetype");
+}
+
 html, body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
@@ -13,7 +18,7 @@ html, body {
   height: 100%;
 }
 
-h1, h2, h3 {
+h1, h2, h3, .articleTitle {
   font-family: homeHeader;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
 }
