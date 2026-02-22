@@ -6,7 +6,7 @@ export default function Home() {
     let navigate = useNavigate();
 
     return (
-        <div className="flex items-center justify-center h-screen bg-yellow-100">
+        <div className="flex items-center justify-center h-screen bg-yellow-100 overflow-hidden">
             <motion.div
                 initial={{ scale: 0 }}
                 animate={{ scale: [0, 1.1, 1] }}
