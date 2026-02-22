@@ -26,7 +26,7 @@ export default function Home() {
                         initial={{ color: '#460809' }}
                         animate={{ color: '#9f0712' }}
                         transition={{ duration: 1, ease: 'easeOut', repeat: Infinity, repeatType: 'reverse' }}
-                        className="text-6xl text-center">
+                        className="text-4xl md:text-6xl text-center">
                             Klasa<br></br>Jezykowa
                     </motion.h1>
                     <button onClick={() => navigate("/gallery")}>
