@@ -83,8 +83,8 @@ export default function Gallery() {
     }, [articleIndex, pendingArticleIndex]);
 
     return (
-        <div className="flex flex-col bg-linear-to-t from-yellow-100 to-transparent w-full min-h-screen relative overflow-y-hidden">
-            <div className="absolute top-2/5 left-1/2 md:right-0 md:left-auto transform -translate-x-1/2 md:-translate-x-0">
+        <div className="flex flex-col bg-linear-to-t from-yellow-100 to-transparent w-full min-h-screen relative lg:overflow-y-hidden">
+            <div className="absolute top-2/5 right-0 z-10">
                 <button onClick={() => setPendingArticleIndex((articleIndex - 1 + data.articles.length) % data.articles.length)}><span className="button_top"><ArrowLeft className="w-4 h-4" /></span></button>
                 <button onClick={() => setIsAutoscroll((prev) => !prev)}><span className="button_top autoscrollButton"><Repeat className="w-4 h-4" /></span></button>
                 <button onClick={() => setPendingArticleIndex((articleIndex + 1) % data.articles.length)}><span className="button_top"><ArrowRight className="w-4 h-4" /></span></button>
@@ -95,6 +95,7 @@ export default function Gallery() {
                 <TextArea id={articleIndex} ref={textAreaRef} />
             </div>
             <div className="bg-[url('/assets/stickers/light.png')] absolute left-0 top-1/3 size-90 bg-contain bg-no-repeat z-0"></div>
+            <div className="bg-yellow-100 absolute -bottom-112 w-full h-112"></div>
             <div className="bg-[url('/assets/stickers/megaphone.png')] absolute left-2/5 translate-y-2/7 bottom-0 size-100 bg-contain bg-no-repeat z-0"></div>
         </div>
     )
