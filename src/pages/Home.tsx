@@ -29,8 +29,8 @@ export default function Home() {
                         className="text-6xl text-center">
                             Klasa<br></br>Jezykowa
                     </motion.h1>
-                    <button onClick={() => navigate("/gallery")} className="bg-red-950 text-white px-6 py-3 rounded-full hover:bg-red-800 transition-colors duration-300">
-                        Rozpocznij
+                    <button onClick={() => navigate("/gallery")}>
+                        <span className="button_top">Rozpocznij</span>
                     </button>
                 </div>
             </motion.div>
