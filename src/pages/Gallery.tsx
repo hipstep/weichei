@@ -83,11 +83,11 @@ export default function Gallery() {
     }, [articleIndex, pendingArticleIndex]);
 
     return (
-        <div className="pb-8 flex flex-col bg-linear-to-t from-yellow-100 to-transparent w-full min-h-screen relative lg:overflow-y-hidden overflow-x-hidden">
+        <div className="flex flex-col bg-linear-to-t from-yellow-100 to-transparent w-full min-h-screen relative lg:overflow-y-hidden overflow-x-hidden">
             <div className="absolute top-2/5 right-0 z-10">
-                <button onClick={() => setPendingArticleIndex((articleIndex - 1 + data.articles.length) % data.articles.length)}><span className="button_top"><ArrowLeft className="w-4 h-4" /></span></button>
-                <button onClick={() => setIsAutoscroll((prev) => !prev)}><span className="button_top autoscrollButton"><Repeat className="w-4 h-4" /></span></button>
-                <button onClick={() => setPendingArticleIndex((articleIndex + 1) % data.articles.length)}><span className="button_top"><ArrowRight className="w-4 h-4" /></span></button>
+                <button onClick={() => setPendingArticleIndex((articleIndex - 1 + data.articles.length) % data.articles.length)}title="Poprzedni artykuł"><span className="button_top"><ArrowLeft className="w-4 h-4" /></span></button>
+                <button onClick={() => setIsAutoscroll((prev) => !prev)}><span className="button_top autoscrollButton" title="Auto-scroll"><Repeat className="w-4 h-4" /></span></button>
+                <button onClick={() => setPendingArticleIndex((articleIndex + 1) % data.articles.length)} title="Następny artykuł"><span className="button_top" ><ArrowRight className="w-4 h-4" /></span></button>
             </div>
             
             <div className="flex flex-col bg-[url('/assets/galleryBackground.png')] bg-cover bg-no-repeat w-full min-h-screen">
