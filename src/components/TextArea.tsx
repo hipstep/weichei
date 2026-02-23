@@ -11,7 +11,7 @@ const TextArea = forwardRef<HTMLDivElement, TextAreaProps>(({id}, ref) => {
     const title = currentArticle.title;
     const text = currentArticle.text;
     return( // !!! responsive?
-        <div ref={ref} className="w-full h-1/2 2xl:h-2/5 absolute bottom-0 px-10 z-10">
+        <div ref={ref} className="w-full mt-20 mb-10 px-10 z-10">
             <div className="lg:max-w-3/4 w-fit articleTitle justify-center items-center text-2xl md:text-3xl lg:text-4xl 2xl:text-5xl mb-5 text-[#9f0712] relative">
                 {title}
             </div>

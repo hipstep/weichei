@@ -33,7 +33,7 @@ const PhotoCarousel = forwardRef<HTMLDivElement, PhotoCarouselProps>(({id}, ref)
             imageElement.style.backgroundSize = "cover";
             imageElement.style.backgroundPosition = "center";
             imageElement.style.minWidth = "33.3vw";
-            imageElement.style.height = "40vh";
+            imageElement.style.height = "80vh";
 
             imagesContainer?.appendChild(imageElement);
         });
@@ -60,7 +60,7 @@ const PhotoCarousel = forwardRef<HTMLDivElement, PhotoCarouselProps>(({id}, ref)
 
 
     return (
-        <div ref={ref} className="flex flex-row overflow-hidden w-full h-[40vh] relative carouselContainer">
+        <div ref={ref} className="flex flex-row overflow-hidden w-full h-[80vh] relative carouselContainer">
            
         </div>
         

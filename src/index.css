@@ -57,3 +57,21 @@ button:hover .button_top {
 button:active .button_top {
   transform: translateY(0);
 }
+
+.articleListTitle{
+  padding: 5px 15px 2px 15px;
+  cursor: pointer;
+  border-bottom: #9f0712 1px solid;
+  transition-duration: .3s;
+}
+
+.articleListContainer{
+  scrollbar-width: none;
+  box-shadow: 0px 0px 5px 0px #9f0712;
+}
+
+.articleListTitle:hover{
+  background-color: #9f0712;
+  color: white;
+  padding-left: 30px;
+}
