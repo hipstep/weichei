@@ -2,7 +2,8 @@ import PhotoCarousel from "../components/PhotoCarousel"
 import TextArea from "../components/TextArea"
 import {useState, useRef, useEffect} from "react";
 import data from "../data/articles";
-import { ArrowLeft, ArrowRight, Repeat } from "lucide-react";
+import { ArrowLeft, ArrowRight, Repeat, House } from "lucide-react";
+import { useNavigate } from 'react-router-dom'
 
 export default function Gallery() {
     const [articleIndex, setArticleIndex] = useState(0);
@@ -11,6 +12,7 @@ export default function Gallery() {
     const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
     const carouselRef = useRef<HTMLDivElement>(null);
     const textAreaRef = useRef<HTMLDivElement>(null);
+    let navigate = useNavigate();
 
     // handle autoscroll toggle
     useEffect(() => {
@@ -84,6 +86,8 @@ export default function Gallery() {
 
     return (
         <div className="flex flex-col bg-linear-to-t from-yellow-100 to-transparent w-full min-h-screen relative lg:overflow-y-hidden overflow-x-hidden">
+            <button onClick={() => navigate("/")} className="absolute top-2/5 left-0 z-10" title="Wróć do menu"><span className="button_top"><House  className="w-4 h-4" /></span></button>
+
             <div className="absolute top-2/5 right-0 z-10">
                 <button onClick={() => setPendingArticleIndex((articleIndex - 1 + data.articles.length) % data.articles.length)}title="Poprzedni artykuł"><span className="button_top"><ArrowLeft className="w-4 h-4" /></span></button>
                 <button onClick={() => setIsAutoscroll((prev) => !prev)}><span className="button_top autoscrollButton" title="Auto-scroll"><Repeat className="w-4 h-4" /></span></button>
