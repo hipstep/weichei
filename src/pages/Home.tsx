@@ -29,7 +29,7 @@ export default function Home() {
                         className="text-4xl md:text-6xl text-center">
                             Klasa<br></br>Jezykowa
                     </motion.h1>
-                    <button onClick={() => navigate("/gallery")}>
+                    <button onClick={() => navigate("/gallery/0")}>
                         <span className="button_top">Rozpocznij</span>
                     </button>
                 </div>

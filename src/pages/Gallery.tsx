@@ -3,10 +3,11 @@ import TextArea from "../components/TextArea"
 import {useState, useRef, useEffect} from "react";
 import data from "../data/articles";
 import { ArrowLeft, ArrowRight, Repeat, House } from "lucide-react";
-import { useNavigate } from 'react-router-dom'
+import { useNavigate, useParams } from 'react-router-dom'
 
 export default function Gallery() {
-    const [articleIndex, setArticleIndex] = useState(0);
+    const pickedArticleId = useParams();
+    const [articleIndex, setArticleIndex] = useState(Number(pickedArticleId.articleId));
     const [isAutoscroll, setIsAutoscroll] = useState(true);
     const [pendingArticleIndex, setPendingArticleIndex] = useState<number | null>(null);
     const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);

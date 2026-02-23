@@ -7,7 +7,7 @@ function App() {
     <HashRouter>
       <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/gallery" element={<Gallery />} />
+          <Route path="/gallery/:articleId" element={<Gallery />} />
       </Routes>
     </HashRouter>
   )
