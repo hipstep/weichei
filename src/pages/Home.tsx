@@ -7,6 +7,7 @@ export default function Home() {
 
     return (
         <div className="flex items-center justify-center h-screen bg-yellow-100 overflow-hidden">
+            <div className="absolute w-full h-full bg-[url('/assets/flag.png')] bg-no-repeat bg-center opacity-50" />
             <motion.div
                 initial={{ scale: 0 }}
                 animate={{ scale: [0, 1.1, 1] }}
